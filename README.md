@@ -12,7 +12,7 @@ Node.js v20 is recommended for this project.
 To install the dependencies, run the following command
 
 ```bash
-yarn install
+yarn
 ```
 
 ### Development
@@ -20,7 +20,7 @@ yarn install
 To start a development server, run the following command
 
 ```bash
-yarn run start
+yarn start
 ```
 
 The server will be accessible on `localhost:8000`.
@@ -30,7 +30,7 @@ The server will be accessible on `localhost:8000`.
 To build a static version of the site for production, run the following command
 
 ```bash
-yarn run build
+yarn build
 ```
 
 ## Contributions
